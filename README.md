@@ -4,4 +4,4 @@
   In this project, we have written the code in python programming language. In order to perform this project you need to install packages mentioned below: Numpy, Pandas, Sklearn, Matplotlib, Scipy, Tensorflow, Keras, Spectral.
   In this project we written our code in jupyter notebook installed by using command "pip3 install jupyter"
   The table below contians the metric values obtained by classification of datasets.
-  
+  ![](comparision_table.png)
