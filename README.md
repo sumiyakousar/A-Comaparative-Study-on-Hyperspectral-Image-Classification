@@ -9,3 +9,7 @@
   ![](comparision_table.png)
   
   From the above comparsion table we observe Deep Learning methods have higher metric values.
+
+  Datasets used in this project are downloaded from this website: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+  
+  
